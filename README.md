@@ -1,4 +1,4 @@
-# CSC-462-Project
+# Distributed GIS Processing
 Group project for CSC 462, distributed computing course at UVic
 
 ### Architecture
